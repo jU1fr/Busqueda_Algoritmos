@@ -1,0 +1,44 @@
+﻿PSEUDOCÓDIGO - BÚSQUEDA SECUENCIAL (LINEAL)
+
+Inicio
+    Definir arreglo como lista de enteros
+    Definir valorBuscado como entero
+    Definir i como entero
+
+    Para i desde 0 hasta longitud(arreglo) - 1 hacer
+        Si arreglo[i] == valorBuscado Entonces
+            Escribir "Elemento encontrado en la posición ", i
+            Retornar i
+        FinSi
+    FinPara
+
+    Escribir "Elemento no encontrado"
+    Retornar -1
+Fin
+
+
+PSEUDOCÓDIGO - BÚSQUEDA BINARIA
+
+Inicio
+    Definir arreglo como lista de enteros (debe estar ordenado)
+    Definir valorBuscado como entero
+    Definir inicio como entero <- 0
+    Definir fin como entero <- longitud(arreglo) - 1
+    Definir medio como entero
+
+    Mientras inicio <= fin Hacer
+        medio <- (inicio + fin) / 2
+
+        Si arreglo[medio] == valorBuscado Entonces
+            Escribir "Elemento encontrado en la posición ", medio
+            Retornar medio
+        Sino Si arreglo[medio] < valorBuscado Entonces
+            inicio <- medio + 1
+        Sino
+            fin <- medio - 1
+        FinSi
+    FinMientras
+
+    Escribir "Elemento no encontrado"
+    Retornar -1
+Fin

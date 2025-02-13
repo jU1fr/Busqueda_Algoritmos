@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\bin\Debug\net8.0\BusquedaAlgoritmos.exe
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\bin\Debug\net8.0\BusquedaAlgoritmos.deps.json
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\bin\Debug\net8.0\BusquedaAlgoritmos.runtimeconfig.json
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\bin\Debug\net8.0\BusquedaAlgoritmos.dll
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\bin\Debug\net8.0\BusquedaAlgoritmos.pdb
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.AssemblyInfo.cs
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.dll
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\obj\Debug\net8.0\refint\BusquedaAlgoritmos.dll
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.pdb
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.genruntimeconfig.cache
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\BusquedaAlgoritmos\BusquedaAlgoritmos\obj\Debug\net8.0\ref\BusquedaAlgoritmos.dll
